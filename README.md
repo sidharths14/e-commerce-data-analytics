@@ -56,9 +56,11 @@ drivers, customer segments, and return patterns.
 3. Investigate high-return customer 16446
 4. Leverage strong UK market while expanding internationally
 
-## Data Limitations
+- ## Data Limitations
 - Cost data unavailable — cannot calculate true profit
 - Only revenue metrics possible with current dataset
+- December 2011 incomplete (only 9 days)
+- Customer 16446 return spike requires data validation
 
 ## Status
 ✅ **Analysis Complete** — Data cleaning, SQL queries, insights generated
