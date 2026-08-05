@@ -56,5 +56,9 @@ drivers, customer segments, and return patterns.
 3. Investigate high-return customer 16446
 4. Leverage strong UK market while expanding internationally
 
+## Data Limitations
+- Cost data unavailable — cannot calculate true profit
+- Only revenue metrics possible with current dataset
+
 ## Status
 ✅ **Analysis Complete** — Data cleaning, SQL queries, insights generated
